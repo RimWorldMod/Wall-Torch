@@ -1,0 +1,10 @@
+Wall Torch  Change Log
+
+V1.1
+-Updated to A15
+-New Texture
+
+--------------------------------
+
+V1.0
+-Initial Release

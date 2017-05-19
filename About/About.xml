@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Wall Torch Mod V1.1</name>
+	<url>https://ludeon.com/forums/index.php?topic=25580.0</url>
+	<author>BaconBits</author>
+	<targetVersion>0.17.0</targetVersion>
+	<description>A wall mounted torch for lighting an area. Can be automatically re-fueled with wood. Not a good source of heat. Must be placed on a wall.
+		
+Caveman-debugged to A17 by KapTaiN_KaVerN</description>
+</ModMetaData>
